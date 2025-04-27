@@ -43,7 +43,13 @@ for img in imgs:
 # git config --global user.email shulin_wu@yhaoo.com.tw
 # git config --global user.name shulin
 # git status (查看狀態)
+# 本地(紅色)
+# 暫存區(綠色)
+# 儲存庫
 # git add . (加入暫存)
 # git commit -m "備註"  (提交儲存庫)
 # git log (查看紀錄)
-# test
+# git log --oneline (一行查看紀錄)
+# git reflog (查看詳細記錄)
+# git reset 版本號 --hard (硬回復)
+# git reset 版本號 --soft (硬回復)
